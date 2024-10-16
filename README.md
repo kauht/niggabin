@@ -1,1 +1,3 @@
-# darkbin-aka-doxbin
+> Слив русского Doxbin. aka. Darkbin.
+
+## Слит оффициально X21 | 8.9.24
