@@ -1,0 +1,274 @@
+ДАННАЯ ПЕРСОНА ОПУБЛИКОВАНА ЕЩЁ ТУТ - https://darkbin.ru/hoa
+
+
+Name: Вадим Коток
+
+
+
+Phone number: +380958858182
+
+
+
+Polish adress: ul. Pulawska 466 02-884 Warszawa, Poland
+
+
+
+Polish IP: 31.0.87.126
+
+
+
+Ukrainian IP: 185.41.21.226
+
+
+
+Geolocation: 48.456430, 36.436700
+
+
+
+Photos: https://imgur.com/a/jd3kMgM https://imgur.com/a/Oypz9lp https://imgur.com/a/YD0mEB6 
+
+
+
+Sources of his projects: https://t.me/vaistore https://t.me/slivhaxto/36
+
+
+
+Polish IP information: 
+
+inetnum: 31.0.80.0 - 31.0.95.255
+
+netname: PLUSNET
+
+descr: Polkomtel sp. z o.o.
+
+descr: Warszawa
+
+country: PL
+
+org: ORG-PN5-RIPE
+
+admin-c: PKL1-RIPE
+
+tech-c: PKL1-RIPE
+
+status: ASSIGNED PA
+
+mnt-by: POLKOMTEL-MNT
+
+mnt-lower: POLKOMTEL-MNT
+
+mnt-domains: POLKOMTEL-MNT
+
+mnt-routes: POLKOMTEL-MNT
+
+created: 2017-05-30T13:19:25Z
+
+last-modified: 2017-05-30T13:19:25Z
+
+source: RIPE # Filtered
+
+
+
+organisation: ORG-PN5-RIPE
+
+org-name: Polkomtel Sp. z o.o.
+
+country: PL
+
+org-type: LIR
+
+address: ul. Pulawska 466
+
+address: 02-884
+
+address: Warszawa
+
+address: POLAND
+
+phone: +48 224 261 000
+
+fax-no: +48224260088
+
+admin-c: SO1236-RIPE
+
+admin-c: IN3-RIPE
+
+mnt-ref: POLKOMTEL-MNT
+
+mnt-ref: RIPE-NCC-HM-MNT
+
+mnt-by: RIPE-NCC-HM-MNT
+
+mnt-by: POLKOMTEL-MNT
+
+abuse-c: PKL1-RIPE
+
+tech-c: SO1236-RIPE
+
+tech-c: MB29626-RIPE
+
+tech-c: KT3222-RIPE
+
+tech-c: TB8799-RIPE
+
+created: 2004-04-17T11:47:51Z
+
+last-modified: 2021-06-28T06:58:58Z
+
+source: RIPE # Filtered
+
+
+
+role: PlusGSM IP Team
+
+address: Polkomtel sp. z o.o.
+
+address: ul. Konstruktorska 4
+
+address: 02-673 Warszawa
+
+address: Poland
+
+phone: +48 22 4261599
+
+fax-no: +48 22 4260099
+
+remarks: Plus (pl.plusgsm) registry administration
+
+remarks: ---
+
+remarks: Registry contact: registry@plus.pl
+
+remarks: Spam and abuse reports: abuse@plus.pl
+
+remarks: ---
+
+abuse-mailbox: abuse@plus.pl
+
+admin-c: SO1236-RIPE
+
+admin-c: IN3-RIPE
+
+tech-c: KT3222-RIPE
+
+tech-c: MB29626-RIPE
+
+tech-c: TB8799-RIPE
+
+nic-hdl: PKL1-RIPE
+
+mnt-by: POLKOMTEL-MNT
+
+created: 2003-10-07T14:54:25Z
+
+last-modified: 2021-12-14T12:36:18Z
+
+source: RIPE # Filtered
+
+
+
+route: 31.0.0.0/15
+
+descr: Polkomtel S.A.
+
+descr: Warsaw, Poland
+
+origin: AS8374
+
+mnt-by: POLKOMTEL-MNT
+
+created: 2011-04-05T07:18:40Z
+
+last-modified: 2011-04-05T07:18:40Z
+
+source: RIPE # Filtered 
+
+
+
+Ukrainian IP information: 
+
+inetnum: 185.41.21.0 - 185.41.21.255
+
+netname: VIZIT-NET
+
+org: ORG-PA1275-RIPE
+
+descr: PTRC-VIZIT
+
+country: UA
+
+admin-c: BG6193-RIPE
+
+tech-c: BG6193-RIPE
+
+abuse-c: AR60105-RIPE
+
+status: ASSIGNED PA
+
+mnt-by: ua-euroline-1-mnt
+
+created: 2014-07-30T19:29:45Z
+
+last-modified: 2020-11-30T12:54:54Z
+
+source: RIPE
+
+Часть II
+
+organisation: ORG-PA1275-RIPE
+
+org-name: PTRC-VIZIT
+
+country: UA
+
+org-type: OTHER
+
+address: 52800, P. Chaikovs'kogo street 16-A, Pershotravensk, Dnipropetrovsk Oblast, Ukraine
+
+abuse-c: AR60105-RIPE
+
+mnt-ref: ua-euroline-1-mnt
+
+mnt-by: ua-euroline-1-mnt
+
+created: 2020-03-23T10:30:03Z
+
+last-modified: 2022-12-01T17:22:23Z
+
+source: RIPE # Filtered
+
+
+
+person: Bukarev Genadij
+
+address: 52800, P. Chaikovs'kogo street 16-A, Pershotravensk, Dnipropetrovsk Oblast, Ukraine
+
+phone: +380663482333
+
+phone: +380667054454
+
+nic-hdl: BG6193-RIPE
+
+mnt-by: ua-euroline-1-mnt
+
+created: 2020-07-29T07:58:44Z
+
+last-modified: 2020-07-29T07:59:01Z
+
+source: RIPE # Filtered
+
+
+
+route: 185.41.21.0/24
+
+descr: PTRC-VIZIT
+
+origin: AS52045
+
+mnt-by: ua-euroline-1-mnt
+
+created: 2020-04-24T13:57:33Z
+
+last-modified: 2020-12-09T09:55:24Z
+
+source: RIPE 
